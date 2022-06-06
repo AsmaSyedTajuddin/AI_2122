@@ -1,0 +1,9 @@
+.vscode/settings.json
+wumpus-online/__pycache__
+wumpus-online/modules/__pycache__/
+planning/tile/sas_plan
+planning/tile/output.sas
+planning/vampire/output.sas
+planning/vampire/sas_plan
+planning/wumpus/sas_plan
+gym/__pycache__
